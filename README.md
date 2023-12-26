@@ -21,7 +21,7 @@ A little bit about myself. I'm a full stack cloud software engineer specializing
 
 ## Projects
 
-Here are some of my projects that I find interesting. Some of these projects make it to my [blog](https://www.nickthecloudguy.com/).
+Here are some of my projects that I find interesting. Some of these projects make it to my [blog at nickthecloudguy.com](https://www.nickthecloudguy.com/).
 
 | Project | Description | Technologies | GitHub |
 | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@ Here are some of my projects that I find interesting. Some of these projects mak
 
 I'm always looking to collaborate on interesting projects. Learning by experimenting and sharing knowledge is a passion of mine. At **Microsoft**, I was one of the main contributors to the [patented cloud based applications](https://patents.google.com/patent/US20140164480A1/en) project.
 
-I'm happy to chat and collaborate with other developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nickdala/).
+I'm happy to chat and collaborate with others. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nickdala/).
 
 <!--
 **nickdala/nickdala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
