@@ -1,6 +1,28 @@
-### Hi there 👋
+# About Me
 
-I'm Nick Dalalelis, a full stack cloud software engineer. I specialize in `designing and implementing distributed and scalable web applications` targeted to run in the `cloud` using a variety of **modern programming languages**.
+Hi there 👋 I'm Nick Dalalelis, a full stack cloud software engineer. I specialize in **designing and implementing distributed and scalable web applications** targeted to run in the **cloud** using a variety of **modern programming languages**.
+
+Since the start of my career, I have been an advocate for developing robust commercial quality software, with a focus on reliability, scalability and supportability.  Some of my contributions include the following:
+
+* Big data projects at Bloomberg and HPE
+* Cloud infrastructure and DevOps at Verizon
+* Cloud based applications at Microsoft
+
+I’m also an inventor of a `patent` at **Microsoft** for [cloud based applications](https://patents.google.com/patent/US20140164480A1/en).
+
+## :heart_decoration: Some of my favorite technologies are:
+
+
+| Cloud | Programming |
+| :---: | :---: |
+|![aws](./amazon.png) | ![golang](./go.jpeg)
+| ![azure](./azure.png) | ![java-scala](./java-scala.jpeg)
+|![google-cloud](./google-cloud.jpg) | ![dotnetcore](./dotnet-core.png)
+|![kubernetes](./docker-kubernetes.png)
+
+
+
+
 
 <!--
 **nickdala/nickdala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
