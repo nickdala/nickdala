@@ -8,8 +8,6 @@ Since the start of my career, I have been an advocate for developing robust comm
 * Cloud infrastructure and DevOps at Verizon
 * Cloud based applications at Microsoft
 
-I’m also an inventor of a `patent` at **Microsoft** for [cloud based applications](https://patents.google.com/patent/US20140164480A1/en).
-
 ## :heart_decoration: Some of my favorite technologies are:
 
 
@@ -18,9 +16,12 @@ I’m also an inventor of a `patent` at **Microsoft** for [cloud based applicati
 |![aws](./amazon.png) | ![golang](./go.jpeg)
 | ![azure](./azure.png) | ![java-scala](./java-scala.jpeg)
 |![google-cloud](./google-cloud.jpg) | ![dotnetcore](./dotnet-core.png)
-|![kubernetes](./docker-kubernetes.png)
+|![kubernetes](./docker-kubernetes.png)| |
 
 
+## Collaboration
+
+I'm always looking to collaborate on interesting projects. Learning by experimenting and sharing knowledge is a passion of mine. At **Microsoft**, I was one of the main contributors to the [cloud based applications](https://patents.google.com/patent/US20140164480A1/en) project. This ultimately led to a patent being filed.
 
 
 
