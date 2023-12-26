@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nick Dalalelis, a full stack cloud software engineer. I specialize in `designing and implementing distributed and scalable web applications` targeted to run in the `cloud` using a variety of **modern programming languages**.
+
 <!--
 **nickdala/nickdala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
